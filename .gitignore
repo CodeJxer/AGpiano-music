@@ -1,0 +1,8 @@
+#virtual enviroument
+venv-AGPM
+
+#python middle file
+.py[o]
+
+#IDE
+.idea
